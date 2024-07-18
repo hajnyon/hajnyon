@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Test
+Test 2
 
 <!--
 **hajnyon/hajnyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
